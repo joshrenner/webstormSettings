@@ -27,7 +27,7 @@
       <option name="fileExtension" value="js" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Babel" />
-      <option name="output" value="dist/$FileDirRelativeToProjectRoot$/$FileNameWithoutExtension$.js:dist/$FileDirRelativeToProjectRoot$/$FileNameWithoutExtension$.js.map" />
+      <option name="output" value="assets/$FilePathRelativeToProjectRoot$/$FileNameWithoutExtension$.js:assets/$FilePathRelativeToProjectRoot$/$FileNameWithoutExtension$.js.map" />
       <option name="outputFilters">
         <array />
       </option>
@@ -35,7 +35,7 @@
       <option name="program" value="$USER_HOME$/n/bin/babel" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="$USER_HOME$/Github/exercise-widget-factory/src" />
+      <option name="workingDir" value="$ContentRoot$" />
       <envs />
     </TaskOptions>
   </component>
